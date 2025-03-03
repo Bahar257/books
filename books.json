@@ -1,0 +1,10 @@
+[
+    {
+        "title": "biology",
+        "author": "bahar",
+        "isbn": "1010",
+        "genre": "Habibul",
+        "price": 200.0,
+        "quantity": 5
+    }
+]
